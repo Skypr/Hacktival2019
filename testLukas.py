@@ -12,4 +12,9 @@ file_name = "data/colonge_small/dom1l-fp_32356_5645_1_nw.xyz"
 
 lidar_points = np.loadtxt(open(file_name, "r"), delimiter=",", skiprows=0)
 
-v = pptk.viewer(lidar_points)
+color = np.array(np.zeros((lidar_points.shape[0], 3)))
+
+for i in range(0, int(lidar_points.shape[0])) :
+    color[i][0] = 1
+
+v = pptk.viewer(lidar_points, color)
