@@ -1,0 +1,24 @@
+LIDAR:
+Lidar data: https://www.opengeodata.nrw.de/produkte/geobasis/dom/dom1l/index.html
+Open streetmap: http://download.geofabrik.de/
+Gebäudedata: https://www.opengeodata.nrw.de/produkte/geobasis/3d-gm/3d-gm_lod2/
+
+Python PACKAGES:
+pandas
+geopandas
+shapely
+pyorj
+tensorflow
+scikit-learn
+
+geo-process:
+QGIS
+
+LIDAR processing:
+las-tools: https://rapidlasso.com/lastools/
+lidar-viewer: http://idav.ucdavis.edu/~okreylos/ResDev/LiDAR/
+
+CityGML:
+FZKViewer: https://www.iai.kit.edu/1648.php
+OGC Description: https://www.opengeospatial.org/standards/citygml
+Virtualcitysystems: https://www.virtualcitysystems.de/
