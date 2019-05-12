@@ -1,6 +1,5 @@
-# UrbanInsights
-## at Hacktival 2019
-
+# UrbanInsights *at Hacktival 2019*
+![roof view](/assets/transport_black.png)
 ## What is UrbanInsights?
 UrbanInsight is an approach to analyze current apartment and housing situations in urban areas. Today, most cities are fighting against rising rental costs, lack of apartments and the generel increase of the cost of living. This is especially a burden for low-income families, who might be dependant on public transportation or other infrastructure that only a city can offer.
 We use open data to search for inefficient, small buildings that only accommodate a small ammount of people and suggest city planners, politicians and everyone else who wants to improve the housing situation a map that shows potential spots for denser buildings.
